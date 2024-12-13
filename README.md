@@ -24,7 +24,7 @@ Steps:
 1. Upload your project to GitHub repository with a minimum of 10 distinct commits.
 2. README file in a paragraph or more provides an overview of purpose, functionality, setup instructions, licensing, troubleshooting. Identifies 3+ features from the provided list that were integrated. 
 3. Visually appealing, follow industry trends, all text spelled correctly. Should be attractive and engaging.
-4. Utilize pandas, matplotlib, and/or numpy. Use 2 or more data pieces and produce comprehensive data visualizations via Tableau, Jupyter, Plotly, Matplotlib, or similar tools. Ensure data ingestion, analysis, and display are well-documented and reproducible. Data cleaning steps should be clearly outlined.
+4. Utilize pandas, matplotlib, and/or numpy. Use 2 or more data pieces and produce comprehensive data visualizations via Tableau, Jupyter, Plotly, Matplotlib, or similar tools. Ensure data analysis and display are well-documented and reproducible. Data cleaning steps should be clearly outlined.
 5. Include a section in your project that explains your data interpretation. This highlights your written communication skills, emphasizing clarity and coherence. Ensure that someone unfamiliar with your project can comprehend its content and purpose.
 6. Choose at least one item from each category in the Features List provided. Consider including more than 5 features in case of issues with other selections.
 7. Review process: The project reviewer clones your project using Git.They follow your readme instructions to set up/run your project.They will test your app for the requirements in this document and also look through the code. Reviewers will try only the most minimal troubleshooting steps if your project does not run “out of the box”
