@@ -1,6 +1,10 @@
-# Social Media Data Analysis
+# Social Media Usage Data Analysis
 
-This is a capstone project for Code:You Data Analysis course. This project will analyze social media data to discover useful trends related to wasting time on social media.
+This is a capstone project for Code:You Data Analysis course. This project explores social media usage patterns using a synthetic dataset created with Mockaroo. Due to the unavailabilty of publicly accessible, real-world data, Mockaroo was used to generate realistic and ethical synthetic data for analysis.
+
+
+**Data Sources**
+The dataset includes fields such as user demograohics, social media activity, and geographical information. The data was generated entirely using Mockaroo to ensure privacy and compliance with ethical standards. No actual data was utilized. For a detailed description of the dataset and its fields, please refer to the [Dataset README.md](#readme-for-dataset).
 
 **Goal:**
 Help social media users determine if wasting their time on social media is worth it.
@@ -33,9 +37,13 @@ Steps:
 
 
 
-## Project Layout
+### Project Layout
 - README.md: general information about the project
 - data/raw: raw data files
 - data/clean: cleaned data files
 - data/README.md: data dictionary
 - src: jupyter notebooks and python scripts
+
+
+#### Acknowledgment
+Mockaroo: [mockaroo.com](htpps://mackaroo.com)
